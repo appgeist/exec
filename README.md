@@ -8,6 +8,8 @@ Utility function to execute a shell command and return a Promise.
 ## Usage
 
 ```js
+const exec = require("@appgeist/exec");
+
 const result = await exec(`
   identify
     -format "%[fx:w/h]"
