@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/exec",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Utility function to execute a shell command and return a Promise",
   "keywords": [
     "utilities",
