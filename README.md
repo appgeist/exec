@@ -17,6 +17,10 @@ const result = await exec(`
 `);
 ```
 
+## License
+
+The [ISC License](LICENSE).
+
 [npm-image]: https://img.shields.io/npm/v/@appgeist/exec.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/@appgeist/exec
 [license-image]: https://img.shields.io/npm/l/@appgeist/exec.svg?style=flat-square
