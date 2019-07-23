@@ -1,6 +1,6 @@
 {
   "name": "@appgeist/exec",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Utility function to execute a shell command and return a Promise",
   "keywords": [
     "utilities",
@@ -20,6 +20,6 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "@appgeist/eslint-config-base": "^1.1.0"
+    "@appgeist/eslint-config-base": "^1.1.2"
   }
 }
